@@ -21,6 +21,7 @@ int cmp_env_name(const char *nenv, const char *name)
 	}
 
 	return (i + 1);
+	
 }
 
 /**
